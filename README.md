@@ -44,20 +44,31 @@
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 </p>
 
-### 🛢️ Databases
+### 📊 Data & Analytics
 <p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/pandas.png" width="40"/>
+<img src="https://img.icons8.com/color/48/numpy.png" width="40"/>
+</p>
+
+### ☁️ Cloud & DevOps (Learning)
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
 ### ⚙️ Tools & Technologies
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
 </p>
-
 ---
 
 ## 🌍 Open Source Journey
